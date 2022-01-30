@@ -1,6 +1,32 @@
-<head>
-    <Style>
-        body {
-  background-color: lightblue;
+body {
+    background-color: lightblue;
+  }
+  a{color: darkgoldenrod;}
+    h1{
+        font-family: "Times New Roman", Times, serif;
+        font-size: 90px;
+        text-align: center;
+        color: darkgoldenrod;
+        text-shadow: 2px 2px black;
+      }    
+      h2{
+          font-family: "cursive", cursive,sans-serif;
+      }  
+ img{ margin-top: 20px;
+      margin-left: 500px;
+      margin-bottom:10px;
+      margin-right: 500px;
 }
-    </Style>
+    p{
+    text-align: justify;
+    font-size: 15px;
+    font-family: sans-serif;
+    color:coral
+}
+.singles{font-style: italic;
+         font-weight: bold;}
+section>article>h2{color:red}
+footer{text-align: left;}
+
+
+
